@@ -52,20 +52,8 @@ Given a list of student roll numbers and their corresponding marks (which may ha
 
 ---
 
-## 📸 Screenshot
-
 > Here's a visual representation of how input is processed into output:
-
-![Marks Adding Diagram](https://user-images.githubusercontent.com/7460892/243881755-9be14aa0-eaa0-403a-9575-372717240e2.png)
-
----
-
-## 📄 Files Included
-
-- `Mini Project - Marks Adding.csv` – input file
-- `marks_adder.py` – Python script to compute total marks
-- `README.md` – documentation file
-- `Mini Project - Marks Adding.pdf` – full assignment sheet
+<img width="577" alt="Screenshot 2025-06-13 at 7 48 00 PM" src="https://github.com/user-attachments/assets/3994094e-6690-4f80-9f32-e0eaf1497d87" />
 
 ---
 
